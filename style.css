@@ -1,0 +1,35 @@
+body{
+    font-family: 'Times New Roman', Times, serif;
+}
+
+/* <!-- head section start --> */
+.header{
+    text-align: center;
+}
+
+.header h1{
+    padding-top: 20px;
+}
+/* <!-- head section end --> */
+
+.card{
+    height: 260vh;
+    width: 70vw;
+    border: 2px solid black;
+   padding-left: 12px;
+   display: flex;
+    flex-direction: column;
+    justify-content: space-around;
+    background-color: white;
+    
+}
+
+ .parent{
+    display: flex;
+   justify-content: space-between;
+}
+
+body{
+    display: flex;
+    justify-content: center;
+}
